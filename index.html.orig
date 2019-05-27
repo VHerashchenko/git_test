@@ -18,7 +18,11 @@
 	<link rel="stylesheet/less" href="less/less.style1.less">
 	<link rel="stylesheet" href="css/sstyle.css">
 
-    <title>Gallery</title>
+<<<<<<< HEAD
+	<title>LESS</title>
+=======
+    <title>Galleries</title>
+>>>>>>> master
 </head>
 <body>
 	<header>
